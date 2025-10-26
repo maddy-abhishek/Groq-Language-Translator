@@ -25,7 +25,7 @@ pip install -r requirements.txt
 4. Create and update .env file
 
 ```
-GROQ_API_KEY="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"
+GROQ_API_KEY=""
 ```
 
 5. Run Streamlit app
