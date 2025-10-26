@@ -22,10 +22,10 @@ venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
-4. Create and update .env file
+4. Update .env file with your api key
 
 ```
-GROQ_API_KEY=""
+GROQ_API_KEY="your api key"
 ```
 
 5. Run Streamlit app
